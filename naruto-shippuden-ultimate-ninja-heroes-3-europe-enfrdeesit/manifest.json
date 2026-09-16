@@ -1,0 +1,591 @@
+{
+  "name": "Naruto Shippuden - Ultimate Ninja Heroes 3 (Europe) (EnFrDeEsIt)",
+  "system": "psp",
+  "file": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip",
+  "size": 1213525622,
+  "md5": "40ab9f6a8b21cfee60e3d331bd699841",
+  "uncompressedSize": 1360363520,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part000",
+      "size": 10485760,
+      "md5": "2f7dcb8d6a46a634abb16689495e37f7"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part001",
+      "size": 10485760,
+      "md5": "aaa9dbdb91b9985dbd522f3e40d5a534"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part002",
+      "size": 10485760,
+      "md5": "c5f9442d591fe51a3451a1d287161acb"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part003",
+      "size": 10485760,
+      "md5": "d87fd8729ae93ab00e076d0c00f9b75f"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part004",
+      "size": 10485760,
+      "md5": "205b3660b64a1ef6de028e9affbdea70"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part005",
+      "size": 10485760,
+      "md5": "7a4d7c27438667872427ae1969a60c6f"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part006",
+      "size": 10485760,
+      "md5": "c2d87ae13c90cb50b6166160c7971c28"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part007",
+      "size": 10485760,
+      "md5": "e625bc2c9f0d3286ceb1f75a09cf868d"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part008",
+      "size": 10485760,
+      "md5": "0f5fccb97419c7bb9e6749d195751a0d"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part009",
+      "size": 10485760,
+      "md5": "579098d6f0f9aa262323cfc72826b361"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part010",
+      "size": 10485760,
+      "md5": "eef35be4ffe4fe199630e42fee326b65"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part011",
+      "size": 10485760,
+      "md5": "d0c56478ce0330566b02481c5dc6d0d4"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part012",
+      "size": 10485760,
+      "md5": "fc600e1315fdb23b4e35f04ae23a5411"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part013",
+      "size": 10485760,
+      "md5": "90315a48aee7cef255274f4f6ef955ea"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part014",
+      "size": 10485760,
+      "md5": "a2832a4d327e9113b523e2887e277478"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part015",
+      "size": 10485760,
+      "md5": "6328b819f6b72414c99d3c1e51a4891b"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part016",
+      "size": 10485760,
+      "md5": "24136d02564e699aad2414e20256d5d5"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part017",
+      "size": 10485760,
+      "md5": "35ed6f28dc5a3293822ee76a03856214"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part018",
+      "size": 10485760,
+      "md5": "cc7e98b388b152f40c531a1bd5cc5269"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part019",
+      "size": 10485760,
+      "md5": "592d9c3a2dfdb59f9953886eb7817702"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part020",
+      "size": 10485760,
+      "md5": "2ca40e42a9354793f4851f8f356afb0d"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part021",
+      "size": 10485760,
+      "md5": "c1fe0ccf51ad262ff8c6eb3be1c6ebf3"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part022",
+      "size": 10485760,
+      "md5": "70d0e1c211ba23d0f36de6934979e3e8"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part023",
+      "size": 10485760,
+      "md5": "d04327cf16ba8f7fce4ccc68ed47d80b"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part024",
+      "size": 10485760,
+      "md5": "edd52389533780fd6149248ae4212ef0"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part025",
+      "size": 10485760,
+      "md5": "cc7e1c6ba726203661d7a64ab27b6ea5"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part026",
+      "size": 10485760,
+      "md5": "60005ee35f3cf9e78cf69f1014519f49"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part027",
+      "size": 10485760,
+      "md5": "2912483246bb341f576b5ba7e9a9f823"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part028",
+      "size": 10485760,
+      "md5": "46e6e95cc7fd817879de9dea85013f86"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part029",
+      "size": 10485760,
+      "md5": "53c2e45d8b9b5f60ddb5e4d2bf4d0e13"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part030",
+      "size": 10485760,
+      "md5": "97f455f96ad484cc6ee1412909a049cb"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part031",
+      "size": 10485760,
+      "md5": "bc63520f2c065728f97734131c6f7938"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part032",
+      "size": 10485760,
+      "md5": "06ca6a9c4dc027225c1f4879ce862cf8"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part033",
+      "size": 10485760,
+      "md5": "21d770491678f3199423a1bec3495062"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part034",
+      "size": 10485760,
+      "md5": "5388cbe5a056d96feb5962d79adf13fd"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part035",
+      "size": 10485760,
+      "md5": "b682ffd0c5080663f4bc09c783c736bc"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part036",
+      "size": 10485760,
+      "md5": "2aea61e93a7ffee7fefbab64b898ff75"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part037",
+      "size": 10485760,
+      "md5": "1ddf12f217d2b0fe55cef09331be4a34"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part038",
+      "size": 10485760,
+      "md5": "b773c5b4eb015c487103b985e40ee493"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part039",
+      "size": 10485760,
+      "md5": "5283c0e2f6a3b86c2cb2400cde0e0ec8"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part040",
+      "size": 10485760,
+      "md5": "423866d4e8224b608a7d893d5b47c1d5"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part041",
+      "size": 10485760,
+      "md5": "7cc7eceec6228e10f110074c04608b02"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part042",
+      "size": 10485760,
+      "md5": "33a1704992ff158fb50223b5dc798e99"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part043",
+      "size": 10485760,
+      "md5": "a87c03baae79872f5566788c474f8619"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part044",
+      "size": 10485760,
+      "md5": "27c33686fe2a77e99b90c60f7dc8d8ec"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part045",
+      "size": 10485760,
+      "md5": "3de602ffbd61eafadf952d498b00e07d"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part046",
+      "size": 10485760,
+      "md5": "d04bbfe50c1e928bd0ac6b1f7ec6e20d"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part047",
+      "size": 10485760,
+      "md5": "1f33ef0a0e76664271ca0e3f61c5f144"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part048",
+      "size": 10485760,
+      "md5": "ec5707790aa135d1bcd9da8c9480e9f8"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part049",
+      "size": 10485760,
+      "md5": "439d3a0934365c99a9e78cefa41daa90"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part050",
+      "size": 10485760,
+      "md5": "98104866b98030664a61faa4e1f76ec5"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part051",
+      "size": 10485760,
+      "md5": "20d0d29570798d3e99d1260a7bdbb458"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part052",
+      "size": 10485760,
+      "md5": "b2b4a1f98304a9cdf722662c08385698"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part053",
+      "size": 10485760,
+      "md5": "7d967e4ca2b3555ab164c8933298d95b"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part054",
+      "size": 10485760,
+      "md5": "68c8c6e1b628886c5b29d5af744b7952"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part055",
+      "size": 10485760,
+      "md5": "f9f04453f714ddf975770d28b20e9afe"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part056",
+      "size": 10485760,
+      "md5": "043a7f1e148f5b1103c01d02c0cd18f0"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part057",
+      "size": 10485760,
+      "md5": "b9edb063e4eb52168d352a66c8a414a6"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part058",
+      "size": 10485760,
+      "md5": "4f4c249af2791d4eb1cbf71de1c4a707"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part059",
+      "size": 10485760,
+      "md5": "d5a295b9d53cb9fd34cf90434859c67a"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part060",
+      "size": 10485760,
+      "md5": "7078919e7026536d8a87c4a5fb13c348"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part061",
+      "size": 10485760,
+      "md5": "2c84708fcdce23a0264c272b88297fe2"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part062",
+      "size": 10485760,
+      "md5": "3ac1756f663dd911f3d3e8ce5c703764"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part063",
+      "size": 10485760,
+      "md5": "38737ab1f45c410d616570dd111f6a8d"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part064",
+      "size": 10485760,
+      "md5": "0ac979888b26b41745f6827e0a17676d"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part065",
+      "size": 10485760,
+      "md5": "98854f3c871bf2bb7291591c3c49f81a"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part066",
+      "size": 10485760,
+      "md5": "c8da8e38d0c549690ff22199c43a9126"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part067",
+      "size": 10485760,
+      "md5": "29fd9238ced5e9ca9dc2aa821908e9c7"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part068",
+      "size": 10485760,
+      "md5": "6752cd11baa0455799ce398d6958d33a"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part069",
+      "size": 10485760,
+      "md5": "5b78576657373c2a77e77f894b0eab6a"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part070",
+      "size": 10485760,
+      "md5": "695a84b6ffb397cc53e719085d3602ae"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part071",
+      "size": 10485760,
+      "md5": "c10aa4fccae6574d62bdab37e93e4cd0"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part072",
+      "size": 10485760,
+      "md5": "0424bb47c0dae771f4066dbaf372e9b4"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part073",
+      "size": 10485760,
+      "md5": "a804417b358037b8669dfca378bcc00d"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part074",
+      "size": 10485760,
+      "md5": "e17ca1a18fc08a47df4e60d3efadfef6"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part075",
+      "size": 10485760,
+      "md5": "7d662e4401646244ce0504d2e39471ed"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part076",
+      "size": 10485760,
+      "md5": "5bfea6c309c3f75a126acfb658031952"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part077",
+      "size": 10485760,
+      "md5": "d6d0b46e6b8b57fa13023e0615bd2858"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part078",
+      "size": 10485760,
+      "md5": "2ec55e16da23c28dc8122b8263cfdf69"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part079",
+      "size": 10485760,
+      "md5": "5ba51bcf2bf003135dc37e730fca87e9"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part080",
+      "size": 10485760,
+      "md5": "b407205d8561e6a70d68998679347358"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part081",
+      "size": 10485760,
+      "md5": "5b4b7055d7caa0c523d092ca923a1ca3"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part082",
+      "size": 10485760,
+      "md5": "3c6d78e9fa3d2566ae1115978e0a13e5"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part083",
+      "size": 10485760,
+      "md5": "bb23dde51d5b43aa51881b9098eaa0c5"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part084",
+      "size": 10485760,
+      "md5": "48cef798418fce5847cf8385f34fb014"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part085",
+      "size": 10485760,
+      "md5": "85cceb5cd851e684cf62047659a8686a"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part086",
+      "size": 10485760,
+      "md5": "3f3bf8386c9cbb569593d2a1cd566590"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part087",
+      "size": 10485760,
+      "md5": "8e5389bc79231443a18fd9a609df59db"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part088",
+      "size": 10485760,
+      "md5": "7a10af047477777f79bf941b8e9357a3"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part089",
+      "size": 10485760,
+      "md5": "b67bb97e481ef5f89b4d60a84c3df3e4"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part090",
+      "size": 10485760,
+      "md5": "2458ad947c65fd9903024e1130603e26"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part091",
+      "size": 10485760,
+      "md5": "aa52a8689983ce613db189ce376aaee7"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part092",
+      "size": 10485760,
+      "md5": "1151f460f33a467aa41342d8f934e9d7"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part093",
+      "size": 10485760,
+      "md5": "2b7c360f970abbee9e680b14ff7e610b"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part094",
+      "size": 10485760,
+      "md5": "df7b2bdda6808a011e4fab3558e17a39"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part095",
+      "size": 10485760,
+      "md5": "ce0b341b4b8497879ae36b2a52c708ee"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part096",
+      "size": 10485760,
+      "md5": "695f03677bf3df51566c32d96df4d694"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part097",
+      "size": 10485760,
+      "md5": "fcdb14410b88d0a4f9c14afde6751092"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part098",
+      "size": 10485760,
+      "md5": "effe83188f0a8cc731cf0abbddb69b61"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part099",
+      "size": 10485760,
+      "md5": "a9284fc95853d9db4d1a8139cff56037"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part100",
+      "size": 10485760,
+      "md5": "c85c83f79f600c5e78666070cf92b306"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part101",
+      "size": 10485760,
+      "md5": "5e0091f16729c606eefe0449f0c907f2"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part102",
+      "size": 10485760,
+      "md5": "4af689f4f25726d04052539ea1119d08"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part103",
+      "size": 10485760,
+      "md5": "29928d517631f596819694d7007140e1"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part104",
+      "size": 10485760,
+      "md5": "5530cabee9733eaf47eda1fa16d2ac6d"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part105",
+      "size": 10485760,
+      "md5": "5711bce3f52d30cc23088a10f62c9d20"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part106",
+      "size": 10485760,
+      "md5": "2b92a9e87f3667056d8cbbc57db0a923"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part107",
+      "size": 10485760,
+      "md5": "db4c46e64ba7fe69b703b6ab7c32558e"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part108",
+      "size": 10485760,
+      "md5": "eb86e31fd3f00014158478c8b2042bcc"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part109",
+      "size": 10485760,
+      "md5": "a83c521011c1a6abd31dec4bcc559143"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part110",
+      "size": 10485760,
+      "md5": "72f245a3a750c04bc9d733f1b31c6d2f"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part111",
+      "size": 10485760,
+      "md5": "9c622405b9d4812e48455fd4c165accf"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part112",
+      "size": 10485760,
+      "md5": "d2b8e97c645a0e3dc289c106c74de089"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part113",
+      "size": 10485760,
+      "md5": "e6d5a92cba8a2d9767781117d2c0d57a"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part114",
+      "size": 10485760,
+      "md5": "ccb14e3625eefd12b47af20798b6b681"
+    },
+    {
+      "name": "naruto-shippuden-ultimate-ninja-heroes-3-europe-enfrdeesit.zip.part115",
+      "size": 7663222,
+      "md5": "2d5e2b3c1cdfb18e61d055e5b4afa8f1"
+    }
+  ]
+}
