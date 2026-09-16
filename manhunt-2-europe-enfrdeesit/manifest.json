@@ -1,0 +1,506 @@
+{
+  "name": "Manhunt 2 (Europe) (EnFrDeEsIt)",
+  "system": "psp",
+  "file": "manhunt-2-europe-enfrdeesit.zip",
+  "size": 1030668693,
+  "md5": "7f9f7719eb4e5ad54da15e746bbf9efa",
+  "uncompressedSize": 1305051136,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part000",
+      "size": 10485760,
+      "md5": "0ed636ee75de0546c0c4da762a4d33a7"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part001",
+      "size": 10485760,
+      "md5": "6b3a35f927095c9e58ffa858adef3335"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part002",
+      "size": 10485760,
+      "md5": "bff76edf0e5c270605913094204f11f7"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part003",
+      "size": 10485760,
+      "md5": "8ef11c82051a2de81dacf912efd5e3fe"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part004",
+      "size": 10485760,
+      "md5": "a3c10c24bc1cefe286cf609b843f7804"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part005",
+      "size": 10485760,
+      "md5": "700ff88f64ccc0cf2352847357da989e"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part006",
+      "size": 10485760,
+      "md5": "fb6327b8c07d626f6206bca9515f0f01"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part007",
+      "size": 10485760,
+      "md5": "cb1f45233a7d1e5f4aa46a3dd9213248"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part008",
+      "size": 10485760,
+      "md5": "b866c9e778dbb0aed2a09f5add4dd40c"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part009",
+      "size": 10485760,
+      "md5": "43edb0e659876a54954f262b44b5155f"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part010",
+      "size": 10485760,
+      "md5": "f330b7d5a9e30cf2b6e78044ac022bf5"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part011",
+      "size": 10485760,
+      "md5": "c8402568c280bd4123f435d823289450"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part012",
+      "size": 10485760,
+      "md5": "9e77ef6ee68db201b07099ddbdf8010d"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part013",
+      "size": 10485760,
+      "md5": "1f2864444c80c52d6f7a8c986e5fcaf1"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part014",
+      "size": 10485760,
+      "md5": "58a1ea023c7e098a281e9c71522a1243"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part015",
+      "size": 10485760,
+      "md5": "b2a29fddb6b7cda6d3d3a10516c5106c"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part016",
+      "size": 10485760,
+      "md5": "b24db557f77875a97250cbdc33389f51"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part017",
+      "size": 10485760,
+      "md5": "6fc90f40ae3fa84a9f9c4f5cb1c2739a"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part018",
+      "size": 10485760,
+      "md5": "e884ac1826dd8be0ee654e0ae9e045bf"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part019",
+      "size": 10485760,
+      "md5": "8c88252884433cd69abbbf7a2f162994"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part020",
+      "size": 10485760,
+      "md5": "10170fcde5dd54b7d83e2995d2e136ad"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part021",
+      "size": 10485760,
+      "md5": "6ec7ae641c2363bb48d43f406e5034a5"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part022",
+      "size": 10485760,
+      "md5": "27c0a979d2cd221f64709e614e25acb5"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part023",
+      "size": 10485760,
+      "md5": "51101c3a65eaf1acd8c4182fc28ac7ea"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part024",
+      "size": 10485760,
+      "md5": "caa9304533a764f7124ff3d7e5728659"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part025",
+      "size": 10485760,
+      "md5": "3d82823463f934e7930aa5eb10488593"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part026",
+      "size": 10485760,
+      "md5": "e6fd5b01b995775b129ae55940b13f2d"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part027",
+      "size": 10485760,
+      "md5": "2a1891e759213c4bb3bdd1aaa5686239"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part028",
+      "size": 10485760,
+      "md5": "65f1397d5e09834395d3bd6a027cef95"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part029",
+      "size": 10485760,
+      "md5": "56607aa56229fe53257135ff7c8c1cdf"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part030",
+      "size": 10485760,
+      "md5": "8ac6d2950cb3c46e7e03e73dd1ef644c"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part031",
+      "size": 10485760,
+      "md5": "aabe6be6ad55d3f1c6053a38ecadd8ee"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part032",
+      "size": 10485760,
+      "md5": "0f3419b4efb3fe7db78a58009ccb9eb6"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part033",
+      "size": 10485760,
+      "md5": "c34640d8b2c604486a0a55d07fa0142d"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part034",
+      "size": 10485760,
+      "md5": "60d862d49331a20588279e61e12e63b5"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part035",
+      "size": 10485760,
+      "md5": "f45b60e9be75b5d861534af38ca84b94"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part036",
+      "size": 10485760,
+      "md5": "7321abb2faccb52b7aaf849ff6750e14"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part037",
+      "size": 10485760,
+      "md5": "0f12e1f89b8d24737e7178e369c8ade0"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part038",
+      "size": 10485760,
+      "md5": "805cf7b3d086cb8e448cccba4e0b731e"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part039",
+      "size": 10485760,
+      "md5": "370440427d2dc6f7212b73c0d762d7ff"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part040",
+      "size": 10485760,
+      "md5": "22ba1a27aea5f83007591946efa25b80"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part041",
+      "size": 10485760,
+      "md5": "3a413eb65f06a2bef414833a9229c4bb"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part042",
+      "size": 10485760,
+      "md5": "66d40318e48754482437d361dff03464"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part043",
+      "size": 10485760,
+      "md5": "f41602e1ad019a35eaf64ba9dfbf908e"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part044",
+      "size": 10485760,
+      "md5": "bdf665851343ef33f0ba76fe161987fa"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part045",
+      "size": 10485760,
+      "md5": "2191dbe617e03cce165e100dfd2440cb"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part046",
+      "size": 10485760,
+      "md5": "98a04c94b75aba66e82a768b3a4e49cf"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part047",
+      "size": 10485760,
+      "md5": "e9c4dab3666c6f3baf89a1072e50e300"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part048",
+      "size": 10485760,
+      "md5": "e18edaa36805cfbf5058cba2093bca81"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part049",
+      "size": 10485760,
+      "md5": "4c132073cb0124c56afdfb43d99fe179"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part050",
+      "size": 10485760,
+      "md5": "091d94c934938f24137e0a690e69dfa6"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part051",
+      "size": 10485760,
+      "md5": "a1e119cf612b67199024467288981733"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part052",
+      "size": 10485760,
+      "md5": "7aa39b1d02a887de9c377adf9da9d894"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part053",
+      "size": 10485760,
+      "md5": "fc128a98cea44cb5b49a3d284aafcdf1"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part054",
+      "size": 10485760,
+      "md5": "63d5eeccdc3846116edffc3bf9e58e9c"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part055",
+      "size": 10485760,
+      "md5": "8b4eae77857c60cd10b4d5c04bbd66bb"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part056",
+      "size": 10485760,
+      "md5": "4e6a739427db56bc1d240f5a7785b638"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part057",
+      "size": 10485760,
+      "md5": "4f5d3c5393f6cafd74abd04896ac1e40"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part058",
+      "size": 10485760,
+      "md5": "8ce188110d0cb781faaea6e0a599abd0"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part059",
+      "size": 10485760,
+      "md5": "7f9c89a7225bf90f4926db0a1a028ad7"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part060",
+      "size": 10485760,
+      "md5": "db566a610762379c1984e4b209624a17"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part061",
+      "size": 10485760,
+      "md5": "58d7a400d8025aedf04408d87ecd3d88"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part062",
+      "size": 10485760,
+      "md5": "fad992cd20f7a8ab2b017e9a4c5da6f3"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part063",
+      "size": 10485760,
+      "md5": "e385ab9d714c222b6a244957fa07b566"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part064",
+      "size": 10485760,
+      "md5": "415b98e09261d5795821a4537bd64b19"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part065",
+      "size": 10485760,
+      "md5": "6977ed593cb39c617b924b1d7e4e2d78"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part066",
+      "size": 10485760,
+      "md5": "8c481d89bcc97451af346013dede4e94"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part067",
+      "size": 10485760,
+      "md5": "321fd351bebef133f43baa37f5d5448b"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part068",
+      "size": 10485760,
+      "md5": "8a125e21b6eba4b9f80c8911843c12b5"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part069",
+      "size": 10485760,
+      "md5": "2657cb20c36d0cc0a92678a7f52a20de"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part070",
+      "size": 10485760,
+      "md5": "a349fb1eab0c16fd6a7d0db83daead26"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part071",
+      "size": 10485760,
+      "md5": "c9a622402d8278e3faeca72de8d7bb60"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part072",
+      "size": 10485760,
+      "md5": "a63419b8e8e7a12b9deb67facc087af9"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part073",
+      "size": 10485760,
+      "md5": "c9e3c5d29cd901aed708760c5ce71246"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part074",
+      "size": 10485760,
+      "md5": "c89ef682986732c87040ae58c78f9df8"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part075",
+      "size": 10485760,
+      "md5": "ccce451a8615a380ffa01ebdbf5832df"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part076",
+      "size": 10485760,
+      "md5": "c6c15ff6a1a6621ec71fb4b43b30d289"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part077",
+      "size": 10485760,
+      "md5": "ac7a2e8aac2800042ad1a9d034a2ac8f"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part078",
+      "size": 10485760,
+      "md5": "46008b9a80e9eac957a480df4cc67e46"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part079",
+      "size": 10485760,
+      "md5": "ae33f3a1bd84288dc7904626bfebdcb3"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part080",
+      "size": 10485760,
+      "md5": "7431273821bae989307475e649ffdab4"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part081",
+      "size": 10485760,
+      "md5": "f4ea46649e761b0f04a966f827bbaf7e"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part082",
+      "size": 10485760,
+      "md5": "0083e6b845d9acfe9a935b4e10234b82"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part083",
+      "size": 10485760,
+      "md5": "db10b2a3d5b4e57aee2e156760a08e2e"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part084",
+      "size": 10485760,
+      "md5": "2570061b1cd4695bafaae4ee8eac8e47"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part085",
+      "size": 10485760,
+      "md5": "7cfbd787b647520f4b129d25b71eb7d9"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part086",
+      "size": 10485760,
+      "md5": "6354713ba1aac0b471345c1b2fb7c631"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part087",
+      "size": 10485760,
+      "md5": "fe588160de508938d0d1678c8c6e6066"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part088",
+      "size": 10485760,
+      "md5": "f9a0d68c1e212de7140d16e36ef79563"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part089",
+      "size": 10485760,
+      "md5": "7fff6ba2a2e315adc43d9f187eb15134"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part090",
+      "size": 10485760,
+      "md5": "d605fd5f2be3024cbf8a6ec5ab0aaa9f"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part091",
+      "size": 10485760,
+      "md5": "264b38f97b56ba86e25b6d577fe6a00a"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part092",
+      "size": 10485760,
+      "md5": "f885eb1de2110230be81adebcba11e21"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part093",
+      "size": 10485760,
+      "md5": "2a9304ab49e626f0007ab09eb559a928"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part094",
+      "size": 10485760,
+      "md5": "893a7188b43d35834c9ea0db260d9e3b"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part095",
+      "size": 10485760,
+      "md5": "d9906d093870b0964af1477151e98629"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part096",
+      "size": 10485760,
+      "md5": "b913a2a9720dba548ca4156045a0679d"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part097",
+      "size": 10485760,
+      "md5": "7c95565b99412ac4bfaea3da5831c077"
+    },
+    {
+      "name": "manhunt-2-europe-enfrdeesit.zip.part098",
+      "size": 3064213,
+      "md5": "27f2946b82155d5a211e0a69e75c582e"
+    }
+  ]
+}
