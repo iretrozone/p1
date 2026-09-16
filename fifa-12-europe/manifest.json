@@ -1,0 +1,386 @@
+{
+  "name": "FIFA 12 (Europe)",
+  "system": "psp",
+  "file": "fifa-12-europe.zip",
+  "size": 783992528,
+  "md5": "ed4c2774ed00a3382a40ad2a15d14cf3",
+  "uncompressedSize": 1293582336,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "fifa-12-europe.zip.part000",
+      "size": 10485760,
+      "md5": "c55ece79c2c4e45fe0ae079505986338"
+    },
+    {
+      "name": "fifa-12-europe.zip.part001",
+      "size": 10485760,
+      "md5": "2833a9efe5116368a193cfada3fd6120"
+    },
+    {
+      "name": "fifa-12-europe.zip.part002",
+      "size": 10485760,
+      "md5": "e10e84979e6835f990a9860642d141fc"
+    },
+    {
+      "name": "fifa-12-europe.zip.part003",
+      "size": 10485760,
+      "md5": "35e99117de62562e7ce622abc7e2ad1c"
+    },
+    {
+      "name": "fifa-12-europe.zip.part004",
+      "size": 10485760,
+      "md5": "95170fa2bfc21e0c391b6149f36804cd"
+    },
+    {
+      "name": "fifa-12-europe.zip.part005",
+      "size": 10485760,
+      "md5": "381411acdcd4b33d501fd867fb16cf4f"
+    },
+    {
+      "name": "fifa-12-europe.zip.part006",
+      "size": 10485760,
+      "md5": "efd12b3a8fd57041677e9e09acfe4ae8"
+    },
+    {
+      "name": "fifa-12-europe.zip.part007",
+      "size": 10485760,
+      "md5": "7a9071ae231de61321dee35ab76d66c2"
+    },
+    {
+      "name": "fifa-12-europe.zip.part008",
+      "size": 10485760,
+      "md5": "93669b42b9fcb15f558a2c5651bc8ead"
+    },
+    {
+      "name": "fifa-12-europe.zip.part009",
+      "size": 10485760,
+      "md5": "a3a7aaced47358c1bb971bf7c22345e4"
+    },
+    {
+      "name": "fifa-12-europe.zip.part010",
+      "size": 10485760,
+      "md5": "d3676262f6d124e84f47c451ab2799bd"
+    },
+    {
+      "name": "fifa-12-europe.zip.part011",
+      "size": 10485760,
+      "md5": "fd93a4b561e84da7e73d563dd23cf2c5"
+    },
+    {
+      "name": "fifa-12-europe.zip.part012",
+      "size": 10485760,
+      "md5": "5b7def65033eeb5741cd59323a2bce35"
+    },
+    {
+      "name": "fifa-12-europe.zip.part013",
+      "size": 10485760,
+      "md5": "c5f2b766468194250de852fdb234a215"
+    },
+    {
+      "name": "fifa-12-europe.zip.part014",
+      "size": 10485760,
+      "md5": "64788a56ff840d2a61b34bece3e02137"
+    },
+    {
+      "name": "fifa-12-europe.zip.part015",
+      "size": 10485760,
+      "md5": "8dc5fed483f3164b695cf97db59ce84c"
+    },
+    {
+      "name": "fifa-12-europe.zip.part016",
+      "size": 10485760,
+      "md5": "c600105b90e972e5f9fb282afc6a2087"
+    },
+    {
+      "name": "fifa-12-europe.zip.part017",
+      "size": 10485760,
+      "md5": "cc84b114d26c62c62f0dd8d888d7125f"
+    },
+    {
+      "name": "fifa-12-europe.zip.part018",
+      "size": 10485760,
+      "md5": "98673775d3b614723596899507b71cec"
+    },
+    {
+      "name": "fifa-12-europe.zip.part019",
+      "size": 10485760,
+      "md5": "20f8c130f2b18856024a543f404a5c71"
+    },
+    {
+      "name": "fifa-12-europe.zip.part020",
+      "size": 10485760,
+      "md5": "19be4cc7030213b19a0d01c67ac7c2ae"
+    },
+    {
+      "name": "fifa-12-europe.zip.part021",
+      "size": 10485760,
+      "md5": "18c382d8079ca82ea5d23a6298cd76ed"
+    },
+    {
+      "name": "fifa-12-europe.zip.part022",
+      "size": 10485760,
+      "md5": "7d7c5fc61cbc65bce7ef70a249a0b832"
+    },
+    {
+      "name": "fifa-12-europe.zip.part023",
+      "size": 10485760,
+      "md5": "756bbe0419d70aea0ab46b81cfd08856"
+    },
+    {
+      "name": "fifa-12-europe.zip.part024",
+      "size": 10485760,
+      "md5": "04ee0c7fe2a894dc7669bde3324043d9"
+    },
+    {
+      "name": "fifa-12-europe.zip.part025",
+      "size": 10485760,
+      "md5": "663a41e3e088ae28a89ca404bfc734d4"
+    },
+    {
+      "name": "fifa-12-europe.zip.part026",
+      "size": 10485760,
+      "md5": "fdc0c9183b0383444a71fe62f334b671"
+    },
+    {
+      "name": "fifa-12-europe.zip.part027",
+      "size": 10485760,
+      "md5": "b297580fd9339fa6c24dd6fe93d43ebf"
+    },
+    {
+      "name": "fifa-12-europe.zip.part028",
+      "size": 10485760,
+      "md5": "592b146e78d1bd5195d91aef95781acc"
+    },
+    {
+      "name": "fifa-12-europe.zip.part029",
+      "size": 10485760,
+      "md5": "21cfe2eb66104d9e287c8fe4b1d3bc90"
+    },
+    {
+      "name": "fifa-12-europe.zip.part030",
+      "size": 10485760,
+      "md5": "11d7bab4b921fcd5c89fc3bf9b09c712"
+    },
+    {
+      "name": "fifa-12-europe.zip.part031",
+      "size": 10485760,
+      "md5": "4179c74913e555862fb202cc665ce557"
+    },
+    {
+      "name": "fifa-12-europe.zip.part032",
+      "size": 10485760,
+      "md5": "08c30b7295b953e0d8b3985c206e53cb"
+    },
+    {
+      "name": "fifa-12-europe.zip.part033",
+      "size": 10485760,
+      "md5": "66f47375457a4fc6ea5ae667a2a01f5c"
+    },
+    {
+      "name": "fifa-12-europe.zip.part034",
+      "size": 10485760,
+      "md5": "c81014ee6139562b5d316da0fc9ec729"
+    },
+    {
+      "name": "fifa-12-europe.zip.part035",
+      "size": 10485760,
+      "md5": "0659d2cdce60a7997499d1a3408bc5a9"
+    },
+    {
+      "name": "fifa-12-europe.zip.part036",
+      "size": 10485760,
+      "md5": "a050f176c9ad9fe120eb6a20e2b7acfc"
+    },
+    {
+      "name": "fifa-12-europe.zip.part037",
+      "size": 10485760,
+      "md5": "85a57bae7a770bf3cb9f3b1a3da44a07"
+    },
+    {
+      "name": "fifa-12-europe.zip.part038",
+      "size": 10485760,
+      "md5": "410523160debd192bb3a342a3b6c6398"
+    },
+    {
+      "name": "fifa-12-europe.zip.part039",
+      "size": 10485760,
+      "md5": "2525a31e41ee91b5f05dfa75d2763b80"
+    },
+    {
+      "name": "fifa-12-europe.zip.part040",
+      "size": 10485760,
+      "md5": "7a2448f8121a6d2500b3cccd146d4867"
+    },
+    {
+      "name": "fifa-12-europe.zip.part041",
+      "size": 10485760,
+      "md5": "f316601ad509e08100eeef7ecae9bccf"
+    },
+    {
+      "name": "fifa-12-europe.zip.part042",
+      "size": 10485760,
+      "md5": "8c11663a0166e3446b25141cb57ea932"
+    },
+    {
+      "name": "fifa-12-europe.zip.part043",
+      "size": 10485760,
+      "md5": "01e8a634d25d06108e33d1cb004e70cc"
+    },
+    {
+      "name": "fifa-12-europe.zip.part044",
+      "size": 10485760,
+      "md5": "3828e50bc6a45b05d43245201f8f797c"
+    },
+    {
+      "name": "fifa-12-europe.zip.part045",
+      "size": 10485760,
+      "md5": "a71fadc1c07458971c74811d8eb4493f"
+    },
+    {
+      "name": "fifa-12-europe.zip.part046",
+      "size": 10485760,
+      "md5": "2a2bb385d16d90088ab22f334a577821"
+    },
+    {
+      "name": "fifa-12-europe.zip.part047",
+      "size": 10485760,
+      "md5": "caec1b538d9b7d654ba4edfd6fb15ab9"
+    },
+    {
+      "name": "fifa-12-europe.zip.part048",
+      "size": 10485760,
+      "md5": "2a3cdc6d822adc9b0bdd487b6c48a332"
+    },
+    {
+      "name": "fifa-12-europe.zip.part049",
+      "size": 10485760,
+      "md5": "433728c154628799466592010775f207"
+    },
+    {
+      "name": "fifa-12-europe.zip.part050",
+      "size": 10485760,
+      "md5": "ba0a585ec532a9e82acd121dc57d8918"
+    },
+    {
+      "name": "fifa-12-europe.zip.part051",
+      "size": 10485760,
+      "md5": "fc9bedcbabbf847816ec2afdba1feea4"
+    },
+    {
+      "name": "fifa-12-europe.zip.part052",
+      "size": 10485760,
+      "md5": "fdb60a5bfd07a84f0ccc29a1bf1b6996"
+    },
+    {
+      "name": "fifa-12-europe.zip.part053",
+      "size": 10485760,
+      "md5": "b2be62309c00236178aeb3319612a32a"
+    },
+    {
+      "name": "fifa-12-europe.zip.part054",
+      "size": 10485760,
+      "md5": "50dc78effd28f935d33a636f807a929c"
+    },
+    {
+      "name": "fifa-12-europe.zip.part055",
+      "size": 10485760,
+      "md5": "aaf1704f894843017c78504b57c54e10"
+    },
+    {
+      "name": "fifa-12-europe.zip.part056",
+      "size": 10485760,
+      "md5": "be1a31e518d5c3702a01366abb5fe6b6"
+    },
+    {
+      "name": "fifa-12-europe.zip.part057",
+      "size": 10485760,
+      "md5": "867be672a07c965ca17023bbbf82b779"
+    },
+    {
+      "name": "fifa-12-europe.zip.part058",
+      "size": 10485760,
+      "md5": "b17571326ae90d824c5840b374c45403"
+    },
+    {
+      "name": "fifa-12-europe.zip.part059",
+      "size": 10485760,
+      "md5": "892fd630f077e01643fb6704fd9bdd03"
+    },
+    {
+      "name": "fifa-12-europe.zip.part060",
+      "size": 10485760,
+      "md5": "fac6f9b9872ed6b42cf6b9387c23467d"
+    },
+    {
+      "name": "fifa-12-europe.zip.part061",
+      "size": 10485760,
+      "md5": "2d4cff49b223290e76d3635f476d313c"
+    },
+    {
+      "name": "fifa-12-europe.zip.part062",
+      "size": 10485760,
+      "md5": "ee92a6e33ab26eacff8a672bd10a73ab"
+    },
+    {
+      "name": "fifa-12-europe.zip.part063",
+      "size": 10485760,
+      "md5": "6a9b1aad3704c5a151fbb1197f0c5ee9"
+    },
+    {
+      "name": "fifa-12-europe.zip.part064",
+      "size": 10485760,
+      "md5": "fc0e9e84db45d1a8c0f021d4ad13de92"
+    },
+    {
+      "name": "fifa-12-europe.zip.part065",
+      "size": 10485760,
+      "md5": "9a07dd8b045167b822d16098bcb94079"
+    },
+    {
+      "name": "fifa-12-europe.zip.part066",
+      "size": 10485760,
+      "md5": "abac07ddaf1a61a7d51a956087fc67b5"
+    },
+    {
+      "name": "fifa-12-europe.zip.part067",
+      "size": 10485760,
+      "md5": "5e73c7db7924929e85405a40bb7beeaa"
+    },
+    {
+      "name": "fifa-12-europe.zip.part068",
+      "size": 10485760,
+      "md5": "8a5bbde8935f6981c4f525a0a28d0d5d"
+    },
+    {
+      "name": "fifa-12-europe.zip.part069",
+      "size": 10485760,
+      "md5": "6e5704c10911e708e5cdf9c6f6ebebb3"
+    },
+    {
+      "name": "fifa-12-europe.zip.part070",
+      "size": 10485760,
+      "md5": "f1646890a76bab49be83e3ebf7d580b0"
+    },
+    {
+      "name": "fifa-12-europe.zip.part071",
+      "size": 10485760,
+      "md5": "498e8cd05d62db6ea322a6409318b6ca"
+    },
+    {
+      "name": "fifa-12-europe.zip.part072",
+      "size": 10485760,
+      "md5": "b809ea88166739575169117275278b82"
+    },
+    {
+      "name": "fifa-12-europe.zip.part073",
+      "size": 10485760,
+      "md5": "949f99f0526d1582c8a4f9e0493afd20"
+    },
+    {
+      "name": "fifa-12-europe.zip.part074",
+      "size": 8046288,
+      "md5": "74e719e4cc9e82c92411536f1cb3d11d"
+    }
+  ]
+}
