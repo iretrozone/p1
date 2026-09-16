@@ -1,0 +1,66 @@
+{
+  "name": "Street Fighter Alpha 3 Max (Europe)",
+  "system": "psp",
+  "file": "street-fighter-alpha-3-max-europe.zip",
+  "size": 112182367,
+  "md5": "1a212aa9917dc26fac5fcbfc7f3dd920",
+  "uncompressedSize": 246808576,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "street-fighter-alpha-3-max-europe.zip.part000",
+      "size": 10485760,
+      "md5": "52b1d35938e01db9615a4eed0a3d0a9d"
+    },
+    {
+      "name": "street-fighter-alpha-3-max-europe.zip.part001",
+      "size": 10485760,
+      "md5": "16b4699424cda0e113e54b1f4c34f14b"
+    },
+    {
+      "name": "street-fighter-alpha-3-max-europe.zip.part002",
+      "size": 10485760,
+      "md5": "82fe774cbbb159b4be61dc038f8f7704"
+    },
+    {
+      "name": "street-fighter-alpha-3-max-europe.zip.part003",
+      "size": 10485760,
+      "md5": "10adc7d9051bc2de7e7fa94b6837c785"
+    },
+    {
+      "name": "street-fighter-alpha-3-max-europe.zip.part004",
+      "size": 10485760,
+      "md5": "3dda4dc9c7c642bfea2bccfb395eb1c2"
+    },
+    {
+      "name": "street-fighter-alpha-3-max-europe.zip.part005",
+      "size": 10485760,
+      "md5": "c6f2056afb9fafce69f332cafa52ead8"
+    },
+    {
+      "name": "street-fighter-alpha-3-max-europe.zip.part006",
+      "size": 10485760,
+      "md5": "8dcda108bcbc5c357fb316ac27a65f81"
+    },
+    {
+      "name": "street-fighter-alpha-3-max-europe.zip.part007",
+      "size": 10485760,
+      "md5": "29a60c26662a4827f4279b3aeade6fec"
+    },
+    {
+      "name": "street-fighter-alpha-3-max-europe.zip.part008",
+      "size": 10485760,
+      "md5": "9493dd352927e5b7473be566c51b8601"
+    },
+    {
+      "name": "street-fighter-alpha-3-max-europe.zip.part009",
+      "size": 10485760,
+      "md5": "5cb4394bfed9e910085c1301d1e94dfb"
+    },
+    {
+      "name": "street-fighter-alpha-3-max-europe.zip.part010",
+      "size": 7324767,
+      "md5": "ee60f89dae922298eb969fbd8581ec5a"
+    }
+  ]
+}
